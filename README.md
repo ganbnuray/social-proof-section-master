@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-with-html5css3flexbox-and-grid-ormCHVpUP](https://www.frontendmentor.io/solutions/social-proof-section-with-html5css3flexbox-and-grid-ormCHVpUP)
 - Live Site URL: [https://ganbnuray.github.io/social-proof-section-master/](https://ganbnuray.github.io/social-proof-section-master/)
 
 ### Built with
